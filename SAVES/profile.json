@@ -1,0 +1,25 @@
+{
+  "selected_skin": "classic",
+  "unlocked_pets": [
+    "slime"
+  ],
+  "selected_pet": "slime",
+  "language": "pt",
+  "unlocked_skins": [
+    "classic",
+    "emerald",
+    "crimson"
+  ],
+  "achievements": [
+    "kills_50",
+    "combo_25"
+  ],
+  "coins": 405,
+  "upgrades": {
+    "dmg": 0,
+    "hp": 0,
+    "spd": 0,
+    "mag": 0,
+    "greed": 0
+  }
+}

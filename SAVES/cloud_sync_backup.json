@@ -1,0 +1,32 @@
+{
+  "timestamp": "2026-10-26 17:44:20",
+  "room_code": "ARENA-????",
+  "coins": 405,
+  "selected_skin": "classic",
+  "selected_pet": "slime",
+  "unlocked_skins": [
+    "classic",
+    "emerald",
+    "crimson"
+  ],
+  "unlocked_pets": [
+    "slime"
+  ],
+  "achievements": [
+    "kills_50",
+    "combo_25"
+  ],
+  "upgrades": {
+    "dmg": 0,
+    "hp": 0,
+    "spd": 0,
+    "mag": 0,
+    "greed": 0
+  },
+  "highscores": {
+    "max_level": 12,
+    "max_kills": 83,
+    "max_time": 69,
+    "max_combo": 31
+  }
+}
